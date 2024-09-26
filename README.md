@@ -1,0 +1,5 @@
+- Install VS Code and its GitHub Pull Requests-Issues extension to your computer.
+- Sign in GitHub using GitHub Pull Requests and Issues extension.
+- Clone a remote repository to your computer.
+- Create and add a new file to the local repository, then commit everything you have done so far.
+- Push the commits to the remote repository.
